@@ -1,4 +1,4 @@
-from BananaOSLib import runosbootscreen, runosloadfiles, runosloginsetup, runoslogin
+import BananaOSLib
 
 runosbootscreen()
 runosloadfiles()
